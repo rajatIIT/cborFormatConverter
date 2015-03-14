@@ -3,7 +3,7 @@
 Used to convert a set of HTML files to equivalent CBOR Files with added fields as per the standard IST Schema.
 
 The input directory should contain HTML files grouped by the hostame of URL of files. The output directory 
-should be an emplty directory.
+should be an empty directory.
 
 The jar file takes 4 arguments : 
 
