@@ -1,6 +1,6 @@
 # cborFormatConverter
 
-Used to convert a Html files to equivalent CBOR Files with added fields as per standard IST Schema.
+Used to convert a set of HTML files to equivalent CBOR Files with added fields as per the standard IST Schema.
 
 The input directory should contain HTML files grouped by the hostame of URL of files. The output directory 
 should be an emplty directory.
